@@ -8,4 +8,5 @@ spring:
     config:
       server:
         git:
+          defaultLabel: master
           uri: file:///C:/workspace/config-repo
